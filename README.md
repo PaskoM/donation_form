@@ -1,4 +1,4 @@
-This project contains automated test script for making a card donation and verify that the donation reference displayed on the thank you page is the same as that in the response of the transaction API call. It uses Cypress and TypeScript. It follows the Page Object Model pattern for organizing test components and also includes accessibility checks.Accessibility violations are logged during the test execution but don't cause the test to fail. 
+This project contains automated test script for making a card donation and verifying that the donation reference displayed on the thank you page is the same as that in the response of the transaction API call. It uses Cypress and TypeScript. It follows the Page Object Model pattern for organizing test components and also includes accessibility checks.Accessibility violations are logged during the test execution but don't cause the test to fail. 
 
 Prerequisites:
 Node.js (Version 12 or higher)
