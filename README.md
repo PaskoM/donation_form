@@ -11,7 +11,7 @@ Other plugins and integrations as defined in package.json
 
 Getting Started
 1.Clone the Repository:
-git clone https://github.com/your-username/payment_form.git
+git clone (https://github.com/PaskoM/donation_form/tree/master)
 cd payment_form
 2.Install Dependencies:
 npm install
